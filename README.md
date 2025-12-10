@@ -31,7 +31,7 @@ This project uses Python data analysis tools to explore upward mobility and ineq
 ### Local Execution
 1. Clone this repository:
    ```bash
-https://github.com/MBanuelos/math120_final_project.git
+   https://github.com/Branmejia1/math120_final/
    cd python_final_project
    ```
 
