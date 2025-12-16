@@ -1,0 +1,11 @@
+year,state_name,place_name,subgroup,subgroup_type,rate_learning,rate_learning_quality
+2014,California,Fresno city,Economically Disadvantaged,income,1.0566555,Strong
+2014,California,Fresno city,Not Economically Disadvantaged,income,0.80203056,Strong
+2015,California,Fresno city,Economically Disadvantaged,income,1.0014256,Strong
+2015,California,Fresno city,Not Economically Disadvantaged,income,0.68287146,Strong
+2016,California,Fresno city,Economically Disadvantaged,income,1.0407176,Strong
+2016,California,Fresno city,Not Economically Disadvantaged,income,0.78955632,Marginal
+2017,California,Fresno city,Economically Disadvantaged,income,1.0680215,Strong
+2017,California,Fresno city,Not Economically Disadvantaged,income,0.86394721,Strong
+2018,California,Fresno city,Economically Disadvantaged,income,1.1521938,Strong
+2018,California,Fresno city,Not Economically Disadvantaged,income,1.1686931,Strong

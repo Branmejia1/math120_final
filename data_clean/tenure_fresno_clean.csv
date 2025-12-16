@@ -1,0 +1,19 @@
+year,state_name,place_name,subgroup,subgroup_type,share_affordable_80_ami,share_affordable_80_ami_quality
+2014,California,Fresno city,Owner,tenure,1.6060740376704812,Weak
+2014,California,Fresno city,Renter,tenure,1.055733917843203,Weak
+2015,California,Fresno city,Owner,tenure,1.5136080322910972,Weak
+2015,California,Fresno city,Renter,tenure,1.1205326210755544,Weak
+2016,California,Fresno city,Owner,tenure,1.703189595142884,Weak
+2016,California,Fresno city,Renter,tenure,1.0759228950906423,Weak
+2017,California,Fresno city,Owner,tenure,1.509220636321955,Weak
+2017,California,Fresno city,Renter,tenure,1.1508469240920145,Weak
+2018,California,Fresno city,Owner,tenure,1.731215367949799,Weak
+2018,California,Fresno city,Renter,tenure,1.0752324850123165,Weak
+2019,California,Fresno city,Owner,tenure,1.7415316239890766,Weak
+2019,California,Fresno city,Renter,tenure,1.0695709320806843,Weak
+2021,California,Fresno city,Owner,tenure,1.8940289438544875,Weak
+2021,California,Fresno city,Renter,tenure,1.075019072053941,Weak
+2022,California,Fresno city,Owner,tenure,1.5356239486658625,Strong
+2022,California,Fresno city,Renter,tenure,0.9551315986426452,Strong
+2023,California,Fresno city,Owner,tenure,1.6279912673334245,Strong
+2023,California,Fresno city,Renter,tenure,0.9606275173880068,Strong
